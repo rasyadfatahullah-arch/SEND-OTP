@@ -1,0 +1,14 @@
+{
+  "name": "jiyyad-tools-send-otp",
+  "version": "1.0.0",
+  "description": "Send OTP - JIYYAD TOOLS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "axios": "^1.7.7"
+  }
+}
